@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<estructuras>
+  <estructura name = "tuberosidad tibial anterior">
+    <info image="rodilla1" model="ruta del modelo">
+      tuberosidad tibial anterior descripción de las acciones pagina 1
+    </info>
+    <info image="rodilla1" model="ruta del modelo">
+      tuberosidad tibial anterior descripción de las acciones pagina 2
+    </info>
+    <info image="rodilla1" model="ruta del modelo">
+      tuberosidad tibial anterior descripción de las acciones pagina 3
+    </info>
+  </estructura>
+  <estructura name = "tuberculo de greidi">
+    <info image="rodilla2" model="ruta del modelo">
+      tuberculo de greidi descripción de las acciones pagina 1
+    </info>
+    <info image="rodilla2" model="ruta del modelo">
+      tuberculo de greidi descripción de las acciones pagina 2
+    </info>
+    <info image="rodilla2" model="ruta del modelo">
+      tuberculo de greidi descripción de las acciones pagina 3
+    </info>
+  </estructura>
+  <estructura name = "cabeza y cuello de la fibula">
+    <info image="rodilla3" model="ruta del modelo">
+      cabeza y cuello de la fibula descripción de las acciones pagina 1
+    </info>
+    <info image="rodilla3" model="ruta del modelo">
+      cabeza y cuello de la fibula descripción de las acciones pagina 2
+    </info>
+    <info image="rodilla3" model="ruta del modelo">
+      cabeza y cuello de la fibula descripción de las acciones pagina 3
+    </info>
+  </estructura>
+  <estructura name = "rotula o patela">
+    <info image="rodilla4" model="ruta del modelo">
+      rotula o patela descripción de las acciones pagina 1
+    </info>
+    <info image="rodilla4" model="ruta del modelo">
+      rotula descripción de las acciones pagina 2
+    </info>
+    <info image="rodilla4" model="ruta del modelo">
+      rotula descripción de las acciones pagina 3
+    </info>
+  </estructura>
+</estructuras>
