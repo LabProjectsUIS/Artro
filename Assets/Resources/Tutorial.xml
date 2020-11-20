@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tutorials>
+  <tutorial name = "calibrar camaras">
+    <page image="ruta de la imagen" model="ruta del modelo">
+      texto del tutorial
+      pagina 1
+    </page>
+  </tutorial>
+  <tutorial name = "Asignación de modelo de herramientas">
+    <page image="ruta de la imagen" model="ruta del modelo">
+      texto del tutorial
+      pagina 1
+    </page>
+    <page image="ruta de la imagen" model="ruta del modelo">
+      texto del tutorial
+      pagina 2
+    </page>
+  </tutorial>
+  <tutorial name = "calibrar instrumentos">
+    <page image="ruta de la imagen" model="ruta del modelo">
+      texto del tutorial
+      pagina 1
+    </page>
+    <page image="ruta de la imagen" model="ruta del modelo">
+      texto del tutorial
+      pagina 2
+    </page>
+    <page image="ruta de la imagen" model="ruta del modelo">
+      texto del tutorial
+      pagina 3
+    </page>
+  </tutorial>
+  <tutorial name = "calibrar">
+    <page image="ruta de la imagen" model="ruta del modelo">
+      texto del tutorial
+      pagina 1
+    </page>
+    <page image="ruta de la imagen" model="ruta del modelo">
+      texto del tutorial
+      pagina 2
+    </page>
+    <page image="ruta de la imagen" model="ruta del modelo">
+      texto del tutorial
+      pagina 3
+    </page>
+    <page image="ruta de la imagen" model="ruta del modelo">
+      texto del tutorial
+      pagina 4
+    </page>
+  </tutorial>
+</tutorials>
